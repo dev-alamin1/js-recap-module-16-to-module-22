@@ -14,7 +14,7 @@ function factorial(givenInputNumber){
     
     while(i>=1){
         
-        factorialNumber *= i; // প্রথম বার আই এর মান ছিল ৫, factorialNumber এর ভ্যালু ছিল ১  তাই ( ৫*১ =৫)
+        factorialNumber *= i; // প্রথম বার আই এর মান ছিল ৫, factorialNumber এর ভ্যালু ছিল ১  তাই ( ১০*১ =১০)
         i--;
     }
 
