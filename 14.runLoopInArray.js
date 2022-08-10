@@ -1,6 +1,7 @@
-/* ai file a , dekhano hoyece kivabe akti loop er vitore, amra loop chaliye
- loop er prottekta element er upor bivinno operaton korte pari .. jemon
- *** loop er element gulo print kora, 
+/* ai file a , dekhano hoyece kivabe akti array er vitore, amra loop chaliye
+ array er prottekta element er upor bivinno operaton korte pari .. jemon
+
+ ***  array er element gulo print kora, 
  **** element gulor jog kora ,gun kora , 
  **** element gulo theke even , odd ber kora
  **** element gulor moddo theke boro othoba choto element ber kora 
@@ -8,7 +9,7 @@
  
 */
 
-//1. loop theke number gulo print kore dekhabo ( for ba while any loop )
+//1. arrya theke number gulo print kore dekhabo ( for ba while any loop )
 let num =[10,20,30,40,50,60,5,10]
 let i=0;
 while(i<num.length)

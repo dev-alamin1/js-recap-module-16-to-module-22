@@ -1,6 +1,7 @@
-/* ai file a , dekhano hoyece kivabe akti loop er vitore, amra loop chaliye
- loop er prottekta element er upor bivinno operaton korte pari .. jemon
- *** loop er element gulo print kora, 
+/* ai file a , dekhano hoyece kivabe akti array er vitore, amra loop chaliye
+ array er prottekta element er upor bivinno operaton korte pari .. jemon
+
+ ***  array er element gulo print kora, 
  **** element gulor jog kora ,gun kora , 
  **** element gulo theke even , odd ber kora
  **** element gulor moddo theke boro othoba choto element ber kora 
